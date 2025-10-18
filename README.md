@@ -4,7 +4,7 @@ Easy Pika is a simple library that allows you to create a Pika connection and ch
 Easy Pike unify exchange and queue declare, summary the most common usage and help user to easy call.
 ## install
 ```bash
-pip install easy-pika
+uv pip install ./easypika-0.7.0-py3-none-any.whl
 ```
 ## usage
 ```python
